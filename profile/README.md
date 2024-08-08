@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://abrillant-lee.github.io/JNGJ/未来绿动-抠图版.png" alt="moja global logo" height ="auto" width="200" />
+<img src="https://abrillant-lee.github.io/JNGJ/未来绿动-抠图版.png" alt="moja global logo" height ="auto" width="300" />
 <br />
 <h1>Green Future</h1>
 <p>
